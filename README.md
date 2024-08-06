@@ -9,6 +9,7 @@ Redes:
 
 ## Contenidos del curso
 
+- [ ] El desarrollo Back-End y sus herramientas.
 - [ ] Fundamentos de Python para desarrollo Back-End.
 - [ ] Creando nuestra primera API en Flask.
 - [ ] Captura de errores.
